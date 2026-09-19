@@ -1,3 +1,4 @@
+deploy v7
 # Secure QR Auth Worker v7 — JEND + Bot Protection
 
 Cloudflare Worker + Static Assets + D1. Версия v7 сохраняет рабочую логику v6 и добавляет защиту от автоматизации.
